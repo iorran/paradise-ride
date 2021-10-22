@@ -14,7 +14,7 @@ export default function Home() {
               </div> 
               <div className="flex flex-col p-8">
                 <p className="text-lg text-gray-800">
-                  Paradise Rise é uma farsa!
+                  Paradise Ride é uma farsa!
                 </p> 
                 <p className="text-sm text-gray-500">
                   Só queria uma trotinete elétrica :(
